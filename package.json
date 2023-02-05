@@ -12,6 +12,14 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.9.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabanicole/learn-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gabanicole/learn-express/issues"
+  },
+  "homepage": "https://github.com/Gabanicole/learn-express#readme"
 }
-
